@@ -11,3 +11,8 @@ el testeo paso sin problema todos los ejercicios
 el testeo 03
 comando es npm test jsii.test.jsi
 el testeo paso sin problema todos los ejercicios
+
+el testeo 04
+comando es npm test jsiii.test.jsi
+el testeo paso sin problema todos los ejercicios.
+
