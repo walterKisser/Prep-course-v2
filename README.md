@@ -24,4 +24,8 @@ el testeo 06
 comando es npm test jsv.test.js
 el testeo paso sin problema todos los ejercicios.
 
+el testeo 07 
+comando es npm test jsvi.test.js
+el testeo paso sin problema todos los ejercicios sin problemas.
+
 
